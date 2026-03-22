@@ -1,0 +1,12 @@
+{
+  "name": "solana-spl-toolkit",
+  "version": "1.0.0",
+  "description": "Expert Solana SPL Token management scripts",
+  "main": "create-token.js",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.1",
+    "@solana/web3.js": "^1.90.0",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
